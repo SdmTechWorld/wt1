@@ -19,6 +19,10 @@ import java.util.List;
 @Controller
 public class ProduitController {
 
+
+    /*
+    Comments for git tests
+     */
     @Autowired
     ProduitRepository produitRepository;
 
